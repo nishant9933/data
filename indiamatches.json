@@ -1,0 +1,53 @@
+{
+  "matches": [
+    {
+      "place": "Lord's, London",
+      "year": 1975,
+      "against": "England",
+      "team": "India",
+      "opponent": "England",
+      "total_runs_by_india": 200,
+      "total_runs_by_opponent": 220,
+      "result": "India lost",
+      "man_of_the_match": "Sunil Gavaskar",
+      "critical_moment": "Despite Sunil Gavaskar's brilliant century, India fell short of the target."
+    },
+    {
+      "place": "Old Trafford, Manchester",
+      "year": 1975,
+      "against": "West Indies",
+      "team": "India",
+      "opponent": "West Indies",
+      "total_runs_by_india": 300,
+      "total_runs_by_opponent": 320,
+      "result": "India lost",
+      "man_of_the_match": "Clive Lloyd",
+      "critical_moment": "West Indies' strong batting performance proved challenging for India."
+    },
+    {
+      "place": "Wankhede Stadium, Mumbai",
+      "year": 2011,
+      "against": "Sri Lanka",
+      "team": "India",
+      "opponent": "Sri Lanka",
+      "total_runs_by_india": 277,
+      "total_runs_by_opponent": 274,
+      "result": "India won",
+      "man_of_the_match": "Gautam Gambhir",
+      "critical_moment": "Gautam Gambhir's crucial innings guided India to victory in the final."
+    },
+    {
+      "place": "Edgbaston, Birmingham",
+      "year": 2019,
+      "against": "Australia",
+      "team": "India",
+      "opponent": "Australia",
+      "total_runs_by_india": 352,
+      "total_runs_by_opponent": 316,
+      "result": "India won",
+      "man_of_the_match": "Shikhar Dhawan",
+      "critical_moment": "Shikhar Dhawan's century set the foundation for India's successful chase."
+    },
+    // Additional matches can be added here
+  ]
+}
